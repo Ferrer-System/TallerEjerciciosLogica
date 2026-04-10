@@ -70,7 +70,7 @@ function mostrarResultados(celsius, fahrenheit, kelvin) {
         <h3> Resultados de la conversión:</h3>
         <p><strong> Temperatura ingresada:</strong> ${celsius}°C</p>
         <p><strong> Grados Fahrenheit:</strong> ${formatNumber(fahrenheit)}°F</p>
-        <p><strong> Grados Kelvin:</strong> ${formatNumber(kelvin)}K</p>
+        <p><strong> Grados Kelvin:</strong> ${formatNumber(kelvin)}°K</p>
         <hr>
         <p><small> Conversión realizada correctamente</small></p>
     `;
