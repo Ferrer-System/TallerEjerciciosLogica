@@ -1,0 +1,14 @@
+
+# === SECRETOS Y CREDENCIALES ===
+application.properties
+*.env
+.env
+
+# === SPRING BOOT CONFIGURATION ===
+src/main/resources/application.properties
+*.log
+
+# === BACKUP FILES ===
+*.backup
+*.old
+*.orig
